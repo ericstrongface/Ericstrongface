@@ -16,7 +16,7 @@ I am a Cyber security student at NIIT Portharcourt, Pasionate about offensive an
 | PROJECT | DESCRIPTION | REPOSITORY |
 | -------- | ------------ | ----------- |
 | Penetration testing |                  | Comming soon |
-| Log Analysis |                 | Commimg soon |
+| Log Analysis |                 | [Commimg soon](https://github.com/ericstrongface/log-analysis) |
 | MAlware Analysis |             | Comming soon |
 | DIgital FOrensic |             | Comming soon |
 | OSINT Investigation |          | https://github.com/ericstrongface/osint-project- |
