@@ -22,7 +22,7 @@ I am a Cyber security student at NIIT Portharcourt, Pasionate about offensive an
 | OSINT Investigation |          | https://github.com/ericstrongface/osint-project- |
 | Threat Hunting |               | Comming soon |
 | Social ENgineering |           | Comming soon |
-|Vulnurability Assesment |       | Comming soon |
+|Vulnurability Assesment |       | https://github.com/ericstrongface/vulnerability-assessment- |
 | SOC Analysis |                 | Comming soon |
 
 ## Skills 
