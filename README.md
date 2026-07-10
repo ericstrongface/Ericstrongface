@@ -13,7 +13,7 @@ I am a Cyber security student at NIIT Portharcourt, Pasionate about offensive an
 - SOC Analysis
 
 ## PROJECTS
-| #PROJECT | #DESCRIPTION | #REPOSITORY |
+| PROJECT | DESCRIPTION | REPOSITORY |
 | -------- | ------------ | ----------- |
 | Penetration testing |                  | Comming soon |
 | Log Analysis |                 | Commimg soon |
